@@ -2,18 +2,18 @@ This is my lab 2 index.md file
 
 *Italic text*
 **Bold text**
-# First heading
-## Second heading
+# Heading 1
+## Heading 2
 [Link](http://google.com)
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/800px-Google_Images_2015_logo.svg.png)
-> Text in blockquote
-* Bulletpoint1
-* Bulletpoint2
-* Bulletpoint3
-1. First
-2. Second
-3. Third
-Horizontal line below
+> Blockquote
+* List
+* List
+* List
+1. One
+2. Two
+3. Three
+Horizontal rule:
 ---
 `Inline code` with backticks
 ```
