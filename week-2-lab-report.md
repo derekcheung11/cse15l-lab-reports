@@ -3,20 +3,20 @@
 ## Installing VScode
 Go to https://code.visualstudio.com/. Here you should follow the instruction on how to download VScode.
 
-[Image](week-2-lab-report-1-1.png)
-[Image](week-2-lab-report-1-2.png)
+![Image](week-2-lab-report-1-1.png)
+![Image](week-2-lab-report-1-2.png)
 
 
 ## Remotely Connecting
 If you are on Windows, you will have to download OpenSSH. Since I only uses macOS, I will not show it in this tutorial.
 
-First, open terminal in VSCode (Crtl + `, or go the "Terminal" -> "New Terminal menu option"). Type in the command below.
+First, open terminal in VSCode ("Terminal" -> "New Terminal menu option"). Type in the command below.
 
 `ssh 'YOUR_COURSE_SPECIFIC_USERNAME'@ieng6.ucsd.edu`
 
 Lookup your account username via https://sdacs.ucsd.edu/~icc/index.php. Once done entering your password in the terminal. You should see the same result as shown below.
 
-[Image](week-2-lab-report-1-3.png)
+![Image](week-2-lab-report-1-3.png)
 
 ## Trying Some Commands
 Here is a list of some commands. Try it out.
@@ -35,21 +35,28 @@ We use `scp` to copy a file from your computer to a remote computer. Create a fi
 
 When you enter `ls` in the terminal, it should show the file in your ieng6 home directory.
 
-[Image](
+![Image](
 
 ## Setting an SSH Key
 `ssh-keygen`
+
 `Generating public/private rsa key pair.`
+
 `Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa`
+
 `Enter passphrase (empty for no passphrase):`
 
 Note: Make sure that you do not add a passphrase for this step.
 `Enter same passphrase again:`
+
 `Your identification has been saved in /Users/<user-name>/.ssh/id_rsa.`
+
 `Your public key has been saved in /Users/<user-name>/.ssh/id_rsa.pub.
 The key fingerprint is:`
+
 `SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 <user-name>@<system>.local`
 `The key's randomart image is:`
+
 `+---[RSA 3072]----+
 |                 |
 |       . . + .   |
@@ -63,9 +70,9 @@ The key fingerprint is:`
 +----[SHA256]-----+`
 
 
-[Image](
+![Image](
 
 ## Optimizing Remote Running
 
-[Image](
+![Image](
 
