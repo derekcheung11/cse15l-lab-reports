@@ -1,7 +1,7 @@
 # Week 2 Lab Report
 
 ## Installing VScode
-Go to https://code.visualstudio.com/. Here you should follow the instruction on how to download VScode.
+Go to ![Link]https://code.visualstudio.com/. Here you should follow the instruction on how to download VScode.
 
 ![Image](week-2-lab-report-1-1.png)
 ![Image](week-2-lab-report-1-2.png)
@@ -14,7 +14,7 @@ First, open terminal in VSCode ("Terminal" -> "New Terminal menu option"). Type 
 
 `ssh 'YOUR_COURSE_SPECIFIC_USERNAME'@ieng6.ucsd.edu`
 
-Lookup your account username via https://sdacs.ucsd.edu/~icc/index.php. Once done entering your password in the terminal. You should see the same result as shown below.
+Lookup your account username via ![Link]https://sdacs.ucsd.edu/~icc/index.php. Once done entering your password in the terminal. You should see the same result as shown below.
 
 ![Image](week-2-lab-report-1-3.png)
 
