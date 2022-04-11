@@ -73,7 +73,7 @@ The key fingerprint is:`
 ![Image](
 
 ## Optimizing Remote Running
-You can run a command in quotes after the `ssh` command and exit right after it.
+You can run a command in quotes after the `ssh` command and it will exit on it own.
 Here are a few ways of entering
 * `ssh 'YOUR_COURSE_SPECIFIC_USERNAME'@ieng6.ucsd.edu "ls"`
 * `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
