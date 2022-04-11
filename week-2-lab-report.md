@@ -45,7 +45,7 @@ When you enter `ls` in the terminal, the file should appear in your ieng6 home d
 ![Image](week-2-lab-report-1-4.png)
 
 ## Setting an SSH Key
-`ssh-keygen`
+Run command `ssh-keygen`
 
 `Generating public/private rsa key pair.`
 
