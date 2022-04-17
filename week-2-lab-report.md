@@ -1,7 +1,7 @@
 # Week 2 Lab Report
 
 ## Installing VScode
-Go to [https://code.visualstudio.com/]https://code.visualstudio.com/. Here you should follow the instructions on how to download VScode.
+Go to [VisualStudio]https://code.visualstudio.com/. Here you should follow the instructions on how to download VScode.
 
 ![Image](week-2-lab-report-1-1.png)
 ![Image](week-2-lab-report-1-2.png)
@@ -14,22 +14,22 @@ First, open the terminal in VSCode ("Terminal" -> "New Terminal"). Type in the c
 
 `ssh 'YOUR_COURSE_SPECIFIC_USERNAME'@ieng6.ucsd.edu`
 
-Lookup your username via [https://sdacs.ucsd.edu/~icc/index.php]https://sdacs.ucsd.edu/~icc/index.php. Once done entering your password in the terminal. You should see the same result as shown below.
+Lookup your username via [Here]https://sdacs.ucsd.edu/~icc/index.php. Once done entering your password in the terminal. You should see the same result as shown below.
 
 ![Image](week-2-lab-report-1-3.png)
 
 ## Trying Some Commands
 Here are some useful commands. Try it out.
-* pwd: print working directory
-* ls: list files
-* cp: copy
-* mv: move or rename
-* cd: change directory
-* mkdir: make directory
-* rm: remove
-* cat: view or create a file
-* touch: create a file
-* man: display command manual
+* `pwd`: print working directory
+* `ls`: list files
+* `cp`: copy
+* `mv`: move or rename
+* `cd`: change directory
+* `mkdir`: make directory
+* `rm`: remove
+* `cat`: view or create a file
+* `touch`: create a file
+* `man`: display command manual
 
 To log out from the remote server. 
 * Crtl+D
