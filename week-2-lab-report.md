@@ -66,6 +66,19 @@ Run command `ssh-keygen`
 
 ![Image](week-2-lab-report-1-5.png)
 
+`logout`
+
+enter `ssh-keygen` again in your local computer same as above
+
+Now copy the public key to the .ssh directory of your user account on the server.
+
+`scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
+
+Now, you should be able to login without having to enter your password
+
+![Image](week-2-lab-report-1-6.png)
+
+
 ## Optimizing Remote Running
 You can run a command in quotes after the `ssh` command and it will exit on it own.
 Here are a few ways of entering
@@ -73,5 +86,5 @@ Here are a few ways of entering
 * or use semicolon, `cp test.java OtherMain.java; javac OtherMain.java; java test`
 * Use up-arrow to recall last command for easier access
 
-![Image](week-2-lab-report-1-6.png)
+![Image](week-2-lab-report-1-7.png)
 
