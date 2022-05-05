@@ -3,7 +3,7 @@
 ![Image](week-4-lab-report-2-1.png)
 ![Image](week-4-lab-report-2-2.png)
 
-The error is caused by a empty line in the test file 1 and creates a endless loop. I created a if statement to check and breaks when it reaches the end.
+The error is caused by a empty line in the [Test1](test-file.md) and creates a endless loop. I created a if statement to check and breaks when it reaches the end.
 
 ## 2nd code changes
 ![Image](week-4-lab-report-2-3.png)
