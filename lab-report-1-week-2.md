@@ -3,8 +3,8 @@
 ## Installing VScode
 Go to [https://code.visualstudio.com/](https://code.visualstudio.com/). Here you should follow the instructions on how to download VScode.
 
-![Image](week-2-lab-report-1-1.png)
-![Image](week-2-lab-report-1-2.png)
+![Image](lab-report-1-week-2-1.png)
+![Image](lab-report-1-week-2-2.png)
 
 
 ## Remotely Connecting
@@ -16,7 +16,7 @@ First, open the terminal in VSCode ("Terminal" -> "New Terminal"). Type in the c
 
 Lookup your username via [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php). Once done entering your password in the terminal. You should see the same result as shown below.
 
-![Image](week-2-lab-report-1-3.png)
+![Image](lab-report-1-week-2-3.png)
 
 ## Trying Some Commands
 Here are some useful commands. Try it out.
@@ -42,7 +42,7 @@ We use `scp` to copy a file from your computer to a remote computer. Create a fi
 
 When you enter `ls` in the terminal, the file should appear in your ieng6 home directory.
 
-![Image](week-2-lab-report-1-4.png)
+![Image](lab-report-1-week-2-4.png)
 
 ## Setting an SSH Key
 Run command `ssh-keygen`
@@ -64,7 +64,7 @@ Run command `ssh-keygen`
 `...`
 
 
-![Image](week-2-lab-report-1-5.png)
+![Image](lab-report-1-week-2-5.png)
 
 `logout`
 
@@ -76,7 +76,7 @@ Now copy the public key to the .ssh directory of your user account on the server
 
 Now, you should be able to login without having to enter your password
 
-![Image](week-2-lab-report-1-6.png)
+![Image](lab-report-1-week-2-6.png)
 
 
 ## Optimizing Remote Running
@@ -86,5 +86,5 @@ Here are a few ways of entering
 * or use semicolon, `cp test.java OtherMain.java; javac OtherMain.java; java test`
 * Use up-arrow to recall last command for easier access
 
-![Image](week-2-lab-report-1-7.png)
+![Image](lab-report-1-week-2-7.png)
 
