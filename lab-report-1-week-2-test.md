@@ -1,0 +1,1 @@
+![Image](screenshot_lab_2_1.png)
