@@ -11,4 +11,5 @@
 ![Image](lab-report-3-week-6-6.png)
 
 ## Copy whole directories with scp -r
-
+![Image](lab-report-3-week-6-8.png)
+![Image](lab-report-3-week-6-9.png)
