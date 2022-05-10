@@ -1,4 +1,4 @@
-# Week 2 Lab Report
+# Lab report 1 week 2
 
 ## Installing VScode
 Go to [https://code.visualstudio.com/](https://code.visualstudio.com/). Here you should follow the instructions on how to download VScode.
