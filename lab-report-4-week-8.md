@@ -2,7 +2,7 @@
 
 [My markdown-parse](https://github.com/derekcheung11/markdown-parser)
 
-[The one I reviewed](https://github.com/mdsflyboy/markdown-parser)
+[Reviewed one](https://github.com/mdsflyboy/markdown-parser)
 
 ## Q/A
 
