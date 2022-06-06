@@ -6,10 +6,9 @@ Q: How you found the tests with different results
 
 [341.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/341.md)
 
-> [How it is meant to look like](lab-report-5-week-10-test-1.html)
-
+![Image](lab-report-5-week-10-1.png)
 
 
 [472.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/472.md)
 
-> [How it is meant to look like](lab-report-5-week-10-test-2.html)
+![Image](lab-report-5-week-10-2.png)
